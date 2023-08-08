@@ -1,0 +1,8 @@
+{
+  "recommendations": [
+    "esbenp.prettier-vscode",
+    "arcanis.vscode-zipfs",
+    "EditorConfig.EditorConfig",
+    "dbaeumer.vscode-eslint"
+  ]
+}
